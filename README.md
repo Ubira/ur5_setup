@@ -3,6 +3,9 @@ Setup for UR5 + ROS
 
 # Nice Links
 -https://github.com/olinrobotics/irl/wiki/Tutorial:-Setting-up-and-running-the-UR5-Robotic-Arm
+
 -https://github.com/Zagitta/ur_modern_driver
+
 -https://github.com/ros-industrial/universal_robot
+
 -https://github.com/ros-industrial/industrial_core
