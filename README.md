@@ -9,3 +9,7 @@ Setup for UR5 + ROS
 -https://github.com/ros-industrial/universal_robot
 
 -https://github.com/ros-industrial/industrial_core
+
+-http://wiki.ros.org/trac_ik
+
+-https://bitbucket.org/traclabs/trac_ik/src
